@@ -12,7 +12,7 @@
 
 # Getting in touch
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nikhilgawai012@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](www.nikhilgawai012@gmail.com)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-gawai-793472219?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bf84l7CB9TdGGP1FVfNMYpw%3D%3D)
 
