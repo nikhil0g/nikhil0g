@@ -1,8 +1,9 @@
 # 🚀 About me
 
-### 👩‍💻 A Data Scientist and Jetson AI specialist with more than four years of experience in Project Implementation and Data Science training.
+### 👩‍💻   A Data Scientist and Jetson AI specialist with more than four years of experience in Project Implementation and Data Science training.
 
-### 🛠 In terms of my skillset, I have proficiency in Artificial Intelligence, Algorithms, Statistics, Python, Deep Learning, CNN, RNN, Computer Vision, Nvidia's Jetson Nano, Pytorch, Django, SQL, MySQL, Big Data and Hadoop, Keras, and Tensorflow, Forcasting, and Natural Language Processing.
+### 🛠 In terms of my skillset, I have proficiency in Artificial Intelligence, Algorithms, Statistics, Python, Deep Learning, CNN, RNN, Computer Vision,
+       Nvidia's Jetson Nano, Pytorch, Django, SQL, MySQL, Big Data and Hadoop, Keras, and Tensorflow, Forcasting, and Natural Language Processing.
 
 # 🏆 Certifications 
 
