@@ -10,15 +10,6 @@
 [![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://courses.nvidia.com/certificates/2607f0515dab4364968c7811a5544648)
 [![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://courses.nvidia.com/certificates/0bf1df926fe24da09d9da2d766fd350b)
 
-## Jetson AI Specialist : - 
-https://www.linkedin.com/posts/nikhil-gawai-793472219_ai-specialist-activity-6899540421437992960-5xI5
-
-## Building Video AI Applications : - 
-https://courses.nvidia.com/certificates/0bf1df926fe24da09d9da2d766fd350b
-
-## Jetson Nano : - 
-https://courses.nvidia.com/certificates/2607f0515dab4364968c7811a5544648
-
 # Getting in touch
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nikhilgawai012@gmail.com)
