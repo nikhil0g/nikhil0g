@@ -30,7 +30,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikhil0g&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikhil0g&theme=dark&hide_border=true&background=550892&fire=04F1FF&ring=0CFF00&currStreakLabel=FDFF0C&currStreakNum=00FDFF&sideNums=FDFF0A&sideLabels=17FFEA&dates=FFBE02&stroke=0CEDFF&border=25FF0F)](https://git.io/streak-stats)
 
 
 # 🏆 Certifications 
