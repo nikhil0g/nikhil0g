@@ -43,7 +43,8 @@
 
 [![microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/learn/achievements/learn.pytorch.pytorch-fundamentals.trophy?username=NikhilGawai-0837)
 
-[![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook)](https://www.kaggle.com/learn/certification/nikhilgawai/intro-to-machine-learning)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/nikhilgawai/intro-to-machine-learning)
+
 
 # 📞 Getting in touch
 
