@@ -36,13 +36,9 @@
 # 🏆 Certifications 
 
 [![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://www.linkedin.com/posts/nikhil-gawai-793472219_ai-specialist-activity-6899540421437992960-5xI5) 
-
 [![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://courses.nvidia.com/certificates/2607f0515dab4364968c7811a5544648)
-
 [![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://courses.nvidia.com/certificates/0bf1df926fe24da09d9da2d766fd350b)
-
 [![microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/learn/achievements/learn.pytorch.pytorch-fundamentals.trophy?username=NikhilGawai-0837)
-
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/nikhilgawai/intro-to-machine-learning)
 
 
