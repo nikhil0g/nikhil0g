@@ -42,7 +42,7 @@
 
 # 🏆 Certifications 
 
-[!jetson[nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://www.linkedin.com/posts/nikhil-gawai-793472219_ai-specialist-activity-6899540421437992960-5xI5) 
+[![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://www.linkedin.com/posts/nikhil-gawai-793472219_ai-specialist-activity-6899540421437992960-5xI5) ## AI Specialist
 
 [![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://courses.nvidia.com/certificates/2607f0515dab4364968c7811a5544648)
 
