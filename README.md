@@ -25,8 +25,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" alt="pycharm" width="60" height="60"/>&nbsp;
   <img src="https://github.com/nikhil0g/nikhil0g/blob/main/nvidia-wordmark.svg" title="nvidia" alt="nvidia" width="60" height="60"/>&nbsp;
   <img src="https://github.com/nikhil0g/nikhil0g/blob/main/hadoop-lockup.svg" title="hadoop" alt="hadoop" width="60" height="60"/>&nbsp;
-  
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil0g&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil0g" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil0g" alt="danypetkar" /></a> </p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil0g&show_icons=true&locale=en" alt="nikhil0g" /></p>
 
