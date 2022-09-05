@@ -28,8 +28,7 @@
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil0g&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil0g" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil0g" alt="nikhil0g" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=nikhil0g&theme=onedark)](https://github.com/nikhil0g/github-profile-trophy)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil0g&show_icons=true&locale=en" alt="nikhil0g" /></p>
