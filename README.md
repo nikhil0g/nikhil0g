@@ -25,13 +25,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" alt="pycharm" width="60" height="60"/>&nbsp;
   <img src="https://github.com/nikhil0g/nikhil0g/blob/main/nvidia-wordmark.svg" title="nvidia" alt="nvidia" width="60" height="60"/>&nbsp;
   <img src="https://github.com/nikhil0g/nikhil0g/blob/main/hadoop-lockup.svg" title="hadoop" alt="hadoop" width="60" height="60"/>&nbsp;
+
 </div>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nikhil0g&theme=onedark)](https://github.com/nikhil0g/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nikhil0g&theme=algolia)](https://github.com/nikhil0g/github-profile-trophy)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil0g&show_icons=true&locale=en" alt="nikhil0g" /></p>
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhil0g&show_icons=true&theme=radical)
+
 
 ### :fire: My Stats :
 
