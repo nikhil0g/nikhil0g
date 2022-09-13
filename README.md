@@ -39,7 +39,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nikhil0g&theme=algolia)](https://github.com/nikhilgawai/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nikhilgawai&theme=algolia)](https://github.com/nikhilgawai/github-profile-trophy)
 
 
 # 🏆 Certifications 
