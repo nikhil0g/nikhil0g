@@ -66,6 +66,8 @@
 
 ### Data Cleaning 👉🏼 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/nikhilgawai/data-cleaning)
 
+### Machine Learning Explainability 👉🏼 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/nikhilgawai/machine-learning-explainability)
+
 
 
 
