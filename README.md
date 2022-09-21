@@ -32,6 +32,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilgawai&theme=vue)
 
+![](https://activity-graph.herokuapp.com/graph?username=nikhilgawai&theme=minimal)
+
 ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilgawai&show_icons=true&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgawai)
