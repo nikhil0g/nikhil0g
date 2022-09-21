@@ -28,7 +28,7 @@
 
 </div>
 
-
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilgawai&theme=vue)
 
 ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilgawai&show_icons=true&theme=radical)
 
@@ -41,7 +41,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nikhilgawai&theme=algolia)](https://github.com/nikhilgawai/github-profile-trophy)
 
-[![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilgawai&theme=vue)]
 
 
 # 🏆 Certifications 
