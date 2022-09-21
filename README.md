@@ -41,7 +41,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nikhilgawai&theme=algolia)](https://github.com/nikhilgawai/github-profile-trophy)
 
-[!](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={nikhilgawai}&theme=vue)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={nikhilgawai}&theme=vue)
 
 
 # 🏆 Certifications 
