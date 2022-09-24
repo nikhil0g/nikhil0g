@@ -74,6 +74,7 @@
 
 ### Machine Learning Explainability 👉🏼 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/nikhilgawai/machine-learning-explainability)
 
+### Time Series 👉🏼 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/nikhilgawai/time-series)
 
 
 
