@@ -30,7 +30,7 @@
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnikhilgawai1212%2Fhit-counter)
 
-#![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilgawai&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilgawai&theme=vue)
 
 ![](https://activity-graph.herokuapp.com/graph?username=nikhilgawai&theme=minimal)
 
