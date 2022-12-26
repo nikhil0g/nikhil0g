@@ -50,6 +50,8 @@
 
 # 🏆 Certifications 
 
+### Google Certified Tensorflow Developer 👉🏼 [![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.credential.net/17a571c4-a5ff-4eb9-a3dc-474f170e3cd3#gs.lxxsfv)
+
 ### AI Specialist 👉🏼  [![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://www.linkedin.com/posts/nikhilgawai_nvidia-datascience-artificialintelligence-activity-6978263510287876096-UdI3?utm_source=share&utm_medium=member_desktop)
 
 ### Getting Started with AI on Jetson Nano 👉🏼 [![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://courses.nvidia.com/certificates/2607f0515dab4364968c7811a5544648)
