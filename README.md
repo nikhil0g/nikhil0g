@@ -1,9 +1,7 @@
 # 🚀 About me
 ## Hi, I'm Nikhil...! 👋
 
-### 👩‍💻  Google Certified Tensorflow Developer || Lead Data Scientist || Nvidia Jetson AI Specialist with over 4 years of experience in project, and freelance jobs.
-
-### 🛠 In terms of my skillset, I have proficiency in Artificial Intelligence, Algorithms, Statistics, Python, Deep Learning, CNN, RNN, Computer Vision, Nvidia's Jetson Nano, Pytorch, Django, SQL, MySQL, Big Data and Hadoop, Keras, and Tensorflow, Forcasting, and Natural Language Processing.
+### 👩‍💻 I'm a Google Tensorflow Certified and NVIDIA Jetson AI Specialist with expertise in data science, machine learning, deep learning, and natural language processing. I specialize in computer vision and have a strong background in these areas. On my GitHub, you'll find a variety of projects showcasing my skills in these areas. Thank you for stopping by!
 
 ### :hammer_and_wrench: Languages and Tools :
 
