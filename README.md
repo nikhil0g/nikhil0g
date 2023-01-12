@@ -58,23 +58,7 @@
 
 ### PyTorch Fundamentals 👉🏼 [![microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/learn/achievements/learn.pytorch.pytorch-fundamentals.trophy?username=NikhilGawai-0837)
 
-### Intro to Machine Learning 👉🏼 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/nikhilgawai/intro-to-machine-learning)
 
-### Computer Vision 👉🏼 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/nikhilgawai/computer-vision)
-
-### Python 👉🏼 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/nikhilgawai/python)
-
-### Feature Engineering  👉🏼 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/nikhilgawai/feature-engineering)
-
-### Data Visualization 👉🏼 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/nikhilgawai/data-visualization)
-
-### Pandas 👉🏼 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/nikhilgawai/pandas)
-
-### Data Cleaning 👉🏼 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/nikhilgawai/data-cleaning)
-
-### Machine Learning Explainability 👉🏼 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/nikhilgawai/machine-learning-explainability)
-
-### Time Series 👉🏼 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/nikhilgawai/time-series)
 
 
 
