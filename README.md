@@ -3,6 +3,20 @@
 
 ### 👩‍💻 I'm a Google Tensorflow Certified and NVIDIA Jetson AI Specialist with expertise in data science, machine learning, deep learning, and natural language processing. I specialize in computer vision and have a strong background in these areas. On my GitHub, you'll find a variety of projects showcasing my skills in these areas. Thank you for stopping by!
 
+
+# 🏆 Certifications 
+
+### Google Certified Tensorflow Developer 👉🏼 [![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.credential.net/17a571c4-a5ff-4eb9-a3dc-474f170e3cd3#gs.lxxsfv)
+
+### AI Specialist 👉🏼  [![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://www.linkedin.com/posts/nikhilgawai_nvidia-datascience-artificialintelligence-activity-6978263510287876096-UdI3?utm_source=share&utm_medium=member_desktop)
+
+### Getting Started with AI on Jetson Nano 👉🏼 [![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://courses.nvidia.com/certificates/2607f0515dab4364968c7811a5544648)
+
+### Building Video AI Applications at the Edge on Jetson Nano 👉🏼 [![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://courses.nvidia.com/certificates/0bf1df926fe24da09d9da2d766fd350b)
+
+### PyTorch Fundamentals 👉🏼 [![microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/learn/achievements/learn.pytorch.pytorch-fundamentals.trophy?username=NikhilGawai-0837)
+
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -46,17 +60,7 @@
 
 
 
-# 🏆 Certifications 
 
-### Google Certified Tensorflow Developer 👉🏼 [![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.credential.net/17a571c4-a5ff-4eb9-a3dc-474f170e3cd3#gs.lxxsfv)
-
-### AI Specialist 👉🏼  [![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://www.linkedin.com/posts/nikhilgawai_nvidia-datascience-artificialintelligence-activity-6978263510287876096-UdI3?utm_source=share&utm_medium=member_desktop)
-
-### Getting Started with AI on Jetson Nano 👉🏼 [![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://courses.nvidia.com/certificates/2607f0515dab4364968c7811a5544648)
-
-### Building Video AI Applications at the Edge on Jetson Nano 👉🏼 [![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://courses.nvidia.com/certificates/0bf1df926fe24da09d9da2d766fd350b)
-
-### PyTorch Fundamentals 👉🏼 [![microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/learn/achievements/learn.pytorch.pytorch-fundamentals.trophy?username=NikhilGawai-0837)
 
 
 
