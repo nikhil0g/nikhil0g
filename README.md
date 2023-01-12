@@ -17,7 +17,9 @@
 ### PyTorch Fundamentals 👉🏼 [![microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/learn/achievements/learn.pytorch.pytorch-fundamentals.trophy?username=NikhilGawai-0837)
 
 
-### :hammer_and_wrench: Languages and Tools :
+
+
+# :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="60" height="60"/>&nbsp;
